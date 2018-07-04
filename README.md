@@ -1,2 +1,2 @@
 # best-repo-ever
-This is a test. Branch 1
+This is a test. Branch 2
